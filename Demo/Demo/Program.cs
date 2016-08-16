@@ -10,6 +10,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Implemented feature 1.0");
         }
     }
 }
