@@ -11,6 +11,7 @@ namespace Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Implemented feature 1.0");
+            Console.WriteLine("Fix the bug.");
             Console.WriteLine("Implemented feature 1.1");
         }
     }
